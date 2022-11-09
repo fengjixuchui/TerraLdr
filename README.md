@@ -25,12 +25,17 @@ TerraLdr: A Payload Loader Designed With Advanced Evasion Features
 - https://github.com/vxunderground/VX-API
 
 
+### Notes:
+  - "SettingSyncHost.exe" isnt found on windows 11 machine, while i didnt tested with w11, its a *must* to change the process name to something else before testing
+  - it is possibly better to compile with "ISO C++20 Standard (/std:c++20)"
 
 ### Profit:
 ![ph2](https://user-images.githubusercontent.com/111295429/198824933-101d0641-d8b3-4cef-812d-0834cdb8cf0f.png)
 ![havoc](https://user-images.githubusercontent.com/111295429/198824884-ba516101-0b02-4ff7-94fb-65ce692e02ce.jpg)
 
 
+### Demo (by [@ColeVanlanding1](https://twitter.com/ColeVanlanding1)) :
+[![EmpireC2 TerraLDR vs AntiVirus](https://user-images.githubusercontent.com/111295429/199412734-de802fa6-0abc-4772-91de-9ca51f565bb1.png)](https://www.youtube.com/watch?v=z8imK4YyrtE "EmpireC2 TerraLDR vs AntiVirus")
 
 
 </br>
